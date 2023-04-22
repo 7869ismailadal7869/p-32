@@ -1,1 +1,2 @@
-# p-32
+theme: THEME-NAME
+remote_theme: THEME-NAME
